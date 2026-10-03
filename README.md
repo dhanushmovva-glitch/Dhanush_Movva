@@ -1,6 +1,6 @@
 # Dhanush Movva — Portfolio
 
-[View the portfolio](https://dhanushmovva-glitch.github.io/Portfolio/) · [GitHub repository](https://github.com/dhanushmovva-glitch/Portfolio)
+[View the portfolio](https://dhanushmovva-glitch.github.io/Dhanush_Movva/) · [GitHub repository](https://github.com/dhanushmovva-glitch/Dhanush_Movva)
 
 A responsive personal portfolio built with HTML, CSS, and JavaScript. Designed for GitHub Pages, with no build process or package installation required.
 
