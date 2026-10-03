@@ -29,7 +29,7 @@ document.addEventListener('click', event => {
   if (!event.target.closest('.header-inner')) closeMenu();
 });
 
-window.matchMedia('(min-width: 561px)').addEventListener('change', closeMenu);
+window.matchMedia('(min-width: 701px)').addEventListener('change', closeMenu);
 document.querySelector('#year').textContent = new Date().getFullYear();
 
 if ('IntersectionObserver' in window) {

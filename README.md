@@ -14,16 +14,11 @@ python3 -m http.server 8000
 
 Then visit <http://localhost:8000>.
 
-## Publish on GitHub Pages
+## Publish updates
 
-1. Sign in to GitHub and create a **public** repository called `portfolio`. For a personal homepage at `https://YOUR-USERNAME.github.io`, name the repository `YOUR-USERNAME.github.io` instead.
-2. Upload `index.html`, `styles.css`, `script.js`, the `assets` folder, and `.nojekyll` to the repository root. You can also upload this README. Keep the files directly in the root, not inside an additional `Portfolio` folder.
-3. Open the repository's **Settings → Pages**.
-4. Under **Build and deployment**, choose **Deploy from a branch**.
-5. Choose the `main` branch and the **/ (root)** folder, then click **Save**.
-6. Once deployment finishes, GitHub displays the public website address on that same Pages settings screen.
+This repository is configured for GitHub Pages from the `main` branch, root folder. Commit and push changes to `main`; GitHub republishes the website automatically.
 
-For a repository named `portfolio`, the address will be `https://YOUR-USERNAME.github.io/portfolio/`. Relative asset paths support both project sites and personal homepages.
+The public URL is <https://dhanushmovva-glitch.github.io/Dhanush_Movva/>. Deployment status is available under the repository's **Actions** and **Settings → Pages**.
 
 Official instructions: [GitHub Pages publishing sources](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site).
 
@@ -34,6 +29,10 @@ Official instructions: [GitHub Pages publishing sources](https://docs.github.com
 - **Mobile navigation and active section indicator:** `script.js`
 - **Downloadable resume:** replace `assets/Dhanush-Movva-Resume.pdf` using the same filename.
 
-Project highlights and numerical results come from the supplied resume. They describe professional work; no employer dashboards or source code are included. The downloadable PDF is an unchanged copy of the supplied resume, including its contact details. Certification names are included without verification links because the resume did not contain usable credential URLs.
+Professional project highlights and numerical results come from the supplied resume. The expanded toolkit and in-progress AWS/Fabric project come from the owner’s additional descriptions. Job Pilot’s summary is grounded in its project documentation; the linked repository currently requires GitHub access. Its visibility has not been changed. They describe professional work; no employer dashboards or source code are included. The downloadable PDF is an unchanged copy of the supplied resume, including its contact details. Certification names are included without verification links because the resume did not contain usable credential URLs.
 
 The site uses Google Fonts with local system-font fallbacks. There is no analytics, contact-form service, database, or backend. Email opens the visitor's email application; LinkedIn opens the profile from the resume. Main content, resume links, and project details work without JavaScript.
+
+## Images
+
+Product and company logos are stored locally in `assets/logos/`. Their sources are recorded in [assets/IMAGE-SOURCES.md](assets/IMAGE-SOURCES.md). A personal profile photograph has not yet been supplied.
