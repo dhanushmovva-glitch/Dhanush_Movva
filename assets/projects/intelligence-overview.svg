@@ -102,4 +102,4 @@
 <rect width="96" height="96" fill="white" />
 </clipPath>
 </defs>
-</svg><text x="325" y="549" fill="#453d56" font-size="17">Power Apps</text></g></svg>
+</svg><text x="325" y="549" fill="#453d56" font-size="17">Power Apps</text></g><defs><marker id="overview-arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M1 1L9 5L1 9" fill="none" stroke="#8b7da0" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" /></marker></defs><path d="M166 315H274" fill="none" stroke="#8b7da0" stroke-width="2" marker-start="url(#overview-arrow)" marker-end="url(#overview-arrow)" /><path d="M325 393V433" fill="none" stroke="#8b7da0" stroke-width="2" marker-start="url(#overview-arrow)" marker-end="url(#overview-arrow)" /></svg>
